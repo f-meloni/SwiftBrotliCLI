@@ -1,3 +1,3 @@
 # SwiftBrotliCLI
 
-A description of this package.
+Command line interface for [SwiftBrotli](https://github.com/f-meloni/SwiftBrotli)
